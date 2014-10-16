@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bof:home|Door43 (bof)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bof|d43-bof repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bof/archive/master.zip|d43-bof.zip]]
+
+**Recent Changes**
+{{changes>ns = bof}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bof|Ethnologue data]]
+
